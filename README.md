@@ -20,3 +20,8 @@ Bertrand paradox (https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)) 
 
 ### Simulation verification
 
+Attach images later.
+
+
+### Results analysis
+Three different approaches result three different conclusions. The main reason is due to the ambiguity on how to get the chord randomly. Through the implementation, we can easily see that method 2 and method 3 differ in how to get the middle point. In particular, method 2 adopts sqrt(U) in the direction of radius while method 3 adopts U distribution directly. Method 2 focuses on getting the middle point uniformally within the 2D area and method 1 focuses on uniformally within 1D line. Method 1 is special by summing two independent uniform distributions. It is worth mentioning that the distribution of the sum is a triangle distribution (not a uniform!!) (https://math.stackexchange.com/questions/357672/density-of-sum-of-two-independent-uniform-random-variables-on-0-1).    
