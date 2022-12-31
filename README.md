@@ -34,3 +34,7 @@ We can verify the distribution differences for the middle points on the three ap
 ![](https://github.com/Fengtao22/Bertrand-paradox-Python_simulation/blob/main/Method1_middle_points.png)
 ![](https://github.com/Fengtao22/Bertrand-paradox-Python_simulation/blob/main/Method2_middle_points.png)
 ![](https://github.com/Fengtao22/Bertrand-paradox-Python_simulation/blob/main/Method3_middle_points.png)
+
+
+### Uniform distribution in python
+![](https://github.com/Fengtao22/Bertrand-paradox-Python_simulation/blob/main/Figure_2_np.random.uniform.png)
